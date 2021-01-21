@@ -20,7 +20,7 @@
     "i18next": "^19.4.5",
     "i18next-browser-languagedetector": "^4.2.0",
     "i18next-http-backend": "^1.0.15",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "intersection-observer": "^0.10.0",
     "leaflet": "^1.6.0",
     "leaflet-knn": "^0.1.0",
